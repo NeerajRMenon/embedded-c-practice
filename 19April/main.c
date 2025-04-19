@@ -5,7 +5,7 @@ uint32_t num;
 uint32_t toggl_even_bits(uint32_t num)
 {
         int arr1[32];
-        uint32_t arr2[32];
+        
         for (int i=0; i<32;i++){
             arr1[i]= (num>>i)&1;
         }
