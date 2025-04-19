@@ -1,5 +1,5 @@
 # embedded-c-practice
-Daily Embedded C Practice Problems and Solutions: Program to toggle all teh even index bits in a given hexadecimal number.  
+Daily Embedded C Practice Problems and Solutions: Program to toggle all the even index bits in a given hexadecimal number.  
 Hi there  
 This code toggles all the even index positions in a given hexadecimal number (in its binary form)
 
