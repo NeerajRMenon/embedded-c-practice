@@ -4,9 +4,8 @@ Sample Input 0
 3
 2
 5
-b
-Sample Output 0
-
+b  
+Sample Output  
 8
 
 Returns
