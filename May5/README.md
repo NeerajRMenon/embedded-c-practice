@@ -8,7 +8,7 @@ b
 Sample Output  
 8
 
-Returns
-int: the sum of marks for boys if gender=b, or of marks of girls if gender=g. 
+Returns     
+int: the sum of marks for boys if gender=b, or of marks of girls if gender=g.    
 
 Note: girls: odd indices, boys:even indices.
